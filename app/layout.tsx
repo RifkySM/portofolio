@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Rifky Saputra Maylandra | Full-Stack Developer Portfolio",
+  title: "Portfolio | Rifky Saputra Maylandra",
   description: "Full-stack developer specializing in React, Next.js, Laravel, and NestJS. Creating scalable web applications with clean architecture and exceptional user experiences. Explore my portfolio of modern web development projects.",
   keywords: [
     "Rifky Saputra Maylandra",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   publisher: "Rifky Saputra Maylandra",
   metadataBase: new URL("https://github.com/RifkySM"),
   openGraph: {
-    title: "Rifky Saputra Maylandra | Full-Stack Developer Portfolio",
+    title: "Portfolio | Rifky Saputra Maylandra",
     description: "Full-stack developer specializing in React, Next.js, Laravel, and NestJS. Building modern, scalable web applications with clean architecture.",
     type: "website",
     locale: "en_US",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rifky Saputra Maylandra | Full-Stack Developer",
+    title: "Portfolio | Rifky Saputra Maylandra",
     description: "Full-stack developer creating scalable web applications with React, Next.js, and Laravel.",
     creator: "@rifky.saputram",
   },
