@@ -128,9 +128,9 @@ Update the content in each section component:
 Update SEO metadata in `app/layout.tsx`:
 ```ts
 export const metadata: Metadata = {
-  title: "Your Name | Full-Stack Developer",
-  description: "Your description here",
-  keywords: ["developer", "react", "laravel", ...],
+  title: "Portfolio | Rifky Saputra Maylandra",
+  description: "Full-stack developer specializing in React, Next.js, Laravel...",
+  keywords: ["Rifky Saputra Maylandra", "full-stack developer", ...],
 }
 ```
 
